@@ -507,6 +507,7 @@ body {
     background-color: rgba(23, 33, 60, 1);
     padding: 30px 50px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .partners__label {
